@@ -16,7 +16,7 @@
 pip install -r requirements.txt
 
 3. Запусти міграції:
-
+python manage.py makemigrations
 python manage.py migrate
 
 4. Створи адміна:
